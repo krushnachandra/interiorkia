@@ -162,8 +162,8 @@ h6 {
 #topbar .languages ul li+li::before {
   display: inline-block;
   padding-right: 10px;
-  color: rgba(255, 255, 255, 0.5);
-  content: "/";
+  color: white;
+  content: " - ";
 }
 
 /*--------------------------------------------------------------
